@@ -1,3 +1,6 @@
 function skillsMember() {
-    return "I'm a member of the team!";
-}
+    return {
+      name: 'John Doe',
+      skills: ['JavaScript', 'React', 'Node.js'],
+    };
+  }
